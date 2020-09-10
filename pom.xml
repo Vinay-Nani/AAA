@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Abc-release</name>
-	      <url>http://13.233.199.19:8081/repository/Abc-release/</url>
+	      <url>http://13.233.75.40:8081/repository/AAA-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Abc-Snapshot</name>
-	      <url>http://13.233.199.19:8081/repository/Abc-Snapshot/</url>
+	      <url>http://13.233.75.40:8081/repository/AAA-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
